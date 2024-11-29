@@ -6,4 +6,5 @@
   (lib (name "TouchKey")(type "KiCad")(uri "${KIPRJMOD}/lib/TouchKey/TouchKey.pretty")(options "")(descr ""))
   (lib (name "TPD2EUSB30DRTR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPD2EUSB30DRTR/TPD2EUSB30DRTR.pretty")(options "")(descr ""))
   (lib (name "TVS0500DRVR")(type "KiCad")(uri "${KIPRJMOD}/lib/TVS0500DRVR/TVS0500DRVR.pretty")(options "")(descr ""))
+  (lib (name "VL53L7CXV0GC-1")(type "KiCad")(uri "${KIPRJMOD}/lib/VL53L7CXV0GC-1/VL53L7CXV0GC-1.pretty")(options "")(descr ""))
 )

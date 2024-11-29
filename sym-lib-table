@@ -5,4 +5,5 @@
   (lib (name "FSM2JSMAATR")(type "KiCad")(uri "${KIPRJMOD}/lib/FSM2JSMAATR/FSM2JSMAATR.kicad_sym")(options "")(descr ""))
   (lib (name "TPD2EUSB30DRTR")(type "KiCad")(uri "${KIPRJMOD}/lib/TPD2EUSB30DRTR/TPD2EUSB30DRTR.kicad_sym")(options "")(descr ""))
   (lib (name "TVS0500DRVR")(type "KiCad")(uri "${KIPRJMOD}/lib/TVS0500DRVR/TVS0500DRVR.kicad_sym")(options "")(descr ""))
+  (lib (name "VL53L7CXV0GC-1")(type "KiCad")(uri "${KIPRJMOD}/lib/VL53L7CXV0GC-1/VL53L7CXV0GC-1.kicad_sym")(options "")(descr ""))
 )
