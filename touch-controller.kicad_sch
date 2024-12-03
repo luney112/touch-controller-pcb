@@ -9395,7 +9395,7 @@
 	)
 	(text "TODO:\n- [x] Re-evaluate TVS diodes\n- [x] CAPS across buttons?\n- [x] Review everything\n- [ ] Break up with connectors or something?"
 		(exclude_from_sim no)
-		(at 191.77 241.554 0)
+		(at 188.976 237.998 0)
 		(effects
 			(font
 				(size 1.27 1.27)
